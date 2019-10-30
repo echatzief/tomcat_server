@@ -14,6 +14,7 @@
     <link rel="shortcut icon" type="image/png" href="./favicon.png"/>
     <link rel="shortcut icon" type="image/png" href="./favicon.png"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/reqwest/2.0.5/reqwest.min.js"></script>
+    <script src="../js/requests.js"></script> 
   </head>
   <body>
     <div class="container" id="container">
@@ -50,7 +51,6 @@
         </div>
       </div>
     </div>
-    <script src="../js/index.js"></script>
-   <script src="../js/requests.js"></script> 
+    <script src="../js/index.js"></script> 
   </body>
 </html>
